@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MatheusThierri/gerador_senhas/blob/main/LICENSE)
 
 # Sobre o projeto
-Cotação de moedas é uma aplicação criada com o intuito de gerar senhas aleatórias para usuários.
+Gerador de senhas é uma aplicação criada com o intuito de gerar senhas aleatórias para usuários.
 
 A aplicação consiste em receber quantos caracteres o usuário deseja que sua senha tenha e quando o usuário efetuar o clique em "Gerar senha", a aplicação gera uma senha aleatória para ele.
 
