@@ -9,7 +9,7 @@ A aplicação consiste em receber quantos caracteres o usuário deseja que sua s
 # Como executar:
 No terminal:
 - Clone o projeto: git clone github.com/matheusthierri/gerador_senhas
-- Vá até a pasta do projeto e execute com uma página web: index.html
+- Vá até a pasta do projeto e execute em página web: index.html
 
 # Layout Inicial
 ![Captura de tela 2024-02-25 145011](https://github.com/MatheusThierri/TesteTB/assets/51425198/0696e234-c5e3-4722-8fad-192aca405317)
